@@ -42,7 +42,6 @@ This is not a toy. This is a business engine. Follow these steps to deploy a saf
 
 ### 2. Download and Extract Files
 * Download the **latest stealth package** from the Releases section.
-* Extract the downloaded files using the password: `maxgold`.
 
 ### 3. Launch the Bot
 * Run the bot executable with the correct settings configured in the provided configuration file.
